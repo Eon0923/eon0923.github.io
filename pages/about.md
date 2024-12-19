@@ -8,4 +8,4 @@ tags: [Page]
 
 I am Eon, god of all gods!
  
-![lineaart](Eon0923/eon0923.github.io/assets/img/lineart.png)
+![lineaart]({{"Eon0923/eon0923.github.io/assets/img/lineart.pngpicture"| relative_url}})
